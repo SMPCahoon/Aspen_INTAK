@@ -1,0 +1,1 @@
+Files in this repository consist of data collected in the Tanana Valley to assess the singular and interactive effects of drought stress and aspen leaf miner herbivory on aspen growth. The basis of the data come from tree-ring analysis (.rwl file).
